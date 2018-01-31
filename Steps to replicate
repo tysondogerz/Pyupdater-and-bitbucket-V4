@@ -1,1 +1,3 @@
-Steps to replicate
+Create a bitbucket account or use existing (please ensure 2 step verification is disabled it should be by default). Create Private repo (I will call this rep)
+
+Use pyupdater
